@@ -1,12 +1,15 @@
 # 📊 Proyecto ETL en Python – Dataset Airbnb  
 
-**NOMBRE: LUCIANO RIQUELME 
+NOMBRE: LUCIANO RIQUELME 
 
-**FECHA:15/09/25
+FECHA:15/09/25
 
-**CONTACTO:luciano.luiz.riquelme@gmail.com
+CONTACTO:luciano.luiz.riquelme@gmail.com
 
  [Ver el código completo en el Jupyter Notebook](https://github.com/riquelmeLuciano/Proyecto-del-Proceso-ETL-en-Python-Dataset-Airbnb/blob/main/proyecto%20ETL.ipynb)
+
+ [Ver la Documentación](https://github.com/riquelmeLuciano/Proyecto-del-Proceso-ETL-en-Python-Dataset-Airbnb/blob/main/Documentacion-procesoETL.pdf)
+
 ---
 
 ## 🎯 Objetivo  
