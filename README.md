@@ -1,4 +1,4 @@
-#📊 Proceso ETL en Python – Dataset Airbnb
+📊 #Proceso ETL en Python – Dataset Airbnb
 🎯 Objetivo
 
 Este proyecto implementa un pipeline ETL (Extract, Transform, Load) sobre un dataset de Airbnb con el objetivo de:
