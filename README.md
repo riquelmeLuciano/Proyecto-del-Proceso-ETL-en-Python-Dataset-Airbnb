@@ -4,7 +4,7 @@ LUCIANO RIQUELME
 15/09/25
 luciano.luiz.riquelme@gmail.com
 
-[Ver el código completo en el Jupyter Notebook]([https://github.com/riquelmeLuciano/Proyecto-del-Proceso-ETL-en-Python-Dataset-Airbnb/blob/main/proyecto%20ETL.ipynb](https://github.com/riquelmeLuciano/Proyecto-del-Proceso-ETL-en-Python-Dataset-Airbnb/blob/main/proyecto%20ETL.ipynb))
+[Ver el código completo en el Jupyter Notebook]([https://github.com/riquelmeLuciano/Proyecto-del-Proceso-ETL-en-Python-Dataset-Airbnb/blob/main/proyecto%20ETL.ipynb])
 
 ---
 
