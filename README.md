@@ -11,11 +11,12 @@ Este proyecto implementa un **pipeline ETL (Extract, Transform, Load)** sobre un
 
 ---
 
-## ⚙️ Tecnologías utilizadas  
+## ⚙️ Tecnologías y Dataset utilizadas
 🔹 **Python 3**  
 🔹 **pandas** → manipulación y transformación de datos  
 🔹 **matplotlib / seaborn** → visualizaciones exploratorias  
 
+Descargar el Dataset en https://insideairbnb.com/get-the-data/
 ---
 
 ## 📂 Flujo del proceso ETL  
@@ -35,6 +36,10 @@ Este proyecto implementa un **pipeline ETL (Extract, Transform, Load)** sobre un
 📊 Listo para integrarse en dashboards o bases de datos relacionales (ej. **MySQL**, **PostgreSQL**).  
 
 ---
+### IMPORTANCIA DE LIMPAR LOS DATOS, EJEMPLO CON UN GRAFICO
+ANTES:
+
+DESPUES:
 
 
 
