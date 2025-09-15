@@ -31,6 +31,7 @@ Descargar el Dataset en https://insideairbnb.com/get-the-data/
 
 ## 📂 Flujo del proceso ETL  
 
+
 ### 🔹 1. Extract (Extracción)  
 📥 Lectura del archivo `listings.csv.gz` (Airbnb dataset).  
 
