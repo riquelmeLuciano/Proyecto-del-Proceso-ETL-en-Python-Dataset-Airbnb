@@ -36,7 +36,7 @@ Descargar el Dataset en https://insideairbnb.com/get-the-data/
 📊 Listo para integrarse en dashboards o bases de datos relacionales (ej. **MySQL**, **PostgreSQL**).  
 
 ---
-### IMPORTANCIA DE LIMPAR LOS DATOS, EJEMPLO CON UN GRAFICO
+### IMPORTANCIA DE LIMPIAR LOS DATOS, EJEMPLO CON UN GRAFICO
 ANTES:
 <p align="center">
   <img src="IMAGENES DE GRAFICOS/GRAFICO(ANTES).PNG" alt="Gráfico de ejemplo" width="600"/>
