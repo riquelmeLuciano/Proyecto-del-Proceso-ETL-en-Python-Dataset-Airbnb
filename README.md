@@ -38,8 +38,14 @@ Descargar el Dataset en https://insideairbnb.com/get-the-data/
 ---
 ### IMPORTANCIA DE LIMPAR LOS DATOS, EJEMPLO CON UN GRAFICO
 ANTES:
-![Vista previa del flujo ETL](GRAFICO(ANTES).PNG)
+<p align="center">
+  <img src="IMAGENES DE GRAFICOS/GRAFICO(ANTES).PNG" alt="Gráfico de ejemplo" width="600"/>
+</p>
 DESPUES:
+<p align="center">
+  <img src="IMAGENES DE GRAFICOS/GRAFICO(DESPUES).PNG" alt="Gráfico de ejemplo" width="600"/>
+</p>
+
 
 
 
